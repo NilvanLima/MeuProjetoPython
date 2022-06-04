@@ -1,2 +1,3 @@
 print("Novo arquivo")
-print("nova linha")
+print("Linha 2")
+print("Nova linha")
