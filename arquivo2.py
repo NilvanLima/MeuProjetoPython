@@ -1,4 +1,6 @@
+print(Hello-Word)
 print("Novo arquivo")
-print("Linha 2")
+print(Linha 3)
 print("Nova linha")
 print("eu odeio segundas feiras")
+print(Linha 6 demo)
